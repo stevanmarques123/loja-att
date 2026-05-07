@@ -1,0 +1,23 @@
+[
+    {
+        "imgs": "imagem/aura.png",
+        "nome": "gabriel monteiro",
+        "preco": "16,67",
+        "desc": "descrição",
+        "link": " apontador.html"
+    },
+    {
+        "imagem": "imagem/estojo.png",
+        "nome": "fernando",
+        "preco": "67,67",
+        "descricao": "descrição",
+        "endereco": " estojo.html"
+    },
+    {
+        "imagem": "imagem/livro.png",
+        "nome": "beta",
+        "preco": "67,67",
+        "descricao": "descrição",
+        "endereco": " livro.html"
+    }
+]
